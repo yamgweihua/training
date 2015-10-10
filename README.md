@@ -4,8 +4,12 @@
 
 --------------
 
-学习资料下载：
-http://pan.baidu.com/s/1eBgBG
+培训讲义
+[目录](https://github.com/Tagexing/training/wiki)
+
+1. [Git与GitHub](https://github.com/Tagexing/training/wiki/%E7%AC%AC%E4%B8%80%E8%AE%B2-Git%E4%B8%8EGitHub)
+
+[学习资料下载](http://pan.baidu.com/s/1eBgBG)
 
 --------------
 
