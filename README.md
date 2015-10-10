@@ -1,6 +1,6 @@
 # Tagexing Training · 踏鸽行 培训
 1. Hand on homework 提交部分作业
-2. Pubilsh materials 发布学习资料
+2. Publish materials 发布学习资料
 
 --------------
 
