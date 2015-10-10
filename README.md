@@ -27,7 +27,7 @@ http://pan.baidu.com/s/1eBgBG
 	姓名
 	学号
 
-	htts://github.com/你的GitHub帐号
+	https://github.com/你的GitHub帐号
 
 将改动提交并推送到你自己Fork的仓库中，通过GitHub发起Pull Request请求合并到Tagexing/training中。
 
