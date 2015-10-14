@@ -1,15 +1,20 @@
-# Tagexing Training · 踏鸽行 培训
+# 踏鸽行&学业部 培训
+ Training for Tagexing & Study Department of CIST 
+
+ 内容 Content:
+
 1. Hand on homework 提交部分作业
 2. Publish materials 发布学习资料
 
 --------------
 
-培训讲义
+#### 培训讲义 ####
 [目录](https://github.com/Tagexing/training/wiki)
 
 1. [Git与GitHub](https://github.com/Tagexing/training/wiki/%E7%AC%AC%E4%B8%80%E8%AE%B2-Git%E4%B8%8EGitHub)
 
-[学习资料下载](http://pan.baidu.com/s/1eBgBG)
+#### 配套学习资料 ####
+[下载](http://pan.baidu.com/s/1eBgBG)
 
 --------------
 
@@ -17,10 +22,10 @@
 
 注册自己的GitHub帐号，创建一个版本库，并在本地做修改，推送到GitHub远程仓库。
 
-版本库主题为C++链表类，要求至少推送两次提交：
+版本库主题为一段文本，要求至少推送两次提交：
 
-1. 第一次提交，支持构造、析构、insertAt
-2. 第二次提交，支持deleteAt
+1. 第一次提交，内容为"Hello, Git!";
+2. 第二次提交，内容为"Hello, Github!"
 
 ## 作业二 Fork和Pull Request提交个人档案 ##
 
